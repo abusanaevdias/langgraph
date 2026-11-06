@@ -1,3 +1,11 @@
+> **Engineering study fork · abusanaevdias**
+>
+> Original project: [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) · MIT
+> [Engineering notes](ENGINEERING_NOTES.md): use case, architecture, trade-offs and proposed verification.
+> Upstream authorship and license are retained. Portfolio additions are documentation.
+
+---
+
 <div align="center">
   <a href="https://www.langchain.com/langgraph">
     <picture>
